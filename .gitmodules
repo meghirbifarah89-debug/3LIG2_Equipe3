@@ -1,0 +1,6 @@
+[submodule "integration-web"]
+	path = integration-web
+	url = https://github.com/meghirbifarah89-debug/integration-web.git
+[submodule "dev-mobile"]
+	path = dev-mobile
+	url = https://github.com/meghirbifarah89-debug/dev-mobile.git
